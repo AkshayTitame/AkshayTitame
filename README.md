@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://miro.medium.com/v2/resize%3Afit%3A1400/1%2AGNFNf_V7rj_C2YUCeZNzsw.jpeg" alt="Coding Banner" width="100%" style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); margin-bottom: 20px;"/>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Welcome+To+My+World+Akshay+Titame;Full+Stack+Developer;Building+Scalable+Backend;Debugging+With+Passion;Learning+Everyday;Chai+%E2%88%9D+Code" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Welcome;Full+Stack+Developer;Building+Scalable+Backend;Debugging+With+Passion;Learning+Everyday;Chai+%E2%88%9D+Code" alt="Typing Animation"/>
 
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AkshayTitame&label=Profile%20views&color=0e75b6&style=for-the-badge" 
